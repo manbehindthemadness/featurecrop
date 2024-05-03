@@ -15,6 +15,8 @@ pip install featurecrop
 
 ## Usage
 
+![image](https://github.com/manbehindthemadness/featurecrop/assets/24589462/54ca51bf-b24d-4f62-b102-68c9a550578e)
+
 ### Basic Usage
 
 ```python
